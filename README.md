@@ -1,0 +1,5 @@
+- Solar Tracking System*: Developed a smart solar tracking system that optimizes the angle of solar panels to maximize sunlight absorption throughout the day.
+- Energy Efficiency*: Designed energy-efficient LED street lights that significantly reduce power consumption compared to traditional lighting systems.
+- Automatic Lighting Control*: Implemented automatic control mechanisms to switch the street lights on and off based on ambient light conditions, ensuring optimal energy usage.
+- IoT Integration*: Integrated Internet of Things (IoT) technology to enable remote monitoring and control of the street lights, allowing for real-time adjustments and maintenance.
+- Sustainable Design*: Focused on sustainable design principles to create an eco-friendly solution that reduces carbon footprint and operational costs.
